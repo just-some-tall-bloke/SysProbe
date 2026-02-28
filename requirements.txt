@@ -1,0 +1,6 @@
+PyQt5==5.15.9
+psutil==5.9.6
+py-cpuinfo==9.0.0
+GPUtil==1.4.0
+pywin32==311
+PyInstaller==6.1.0

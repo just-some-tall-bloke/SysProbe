@@ -1,0 +1,1 @@
+# System info collectors package
